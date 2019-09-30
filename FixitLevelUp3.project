@@ -21,6 +21,22 @@
             "carLoanPayment", 
             "carLoanPayment.json"
           ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "MainProgram", 
+            "MainProgram.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "homeLoanPayment", 
+            "homeLoanPayment.json"
+          ]
         }
       ], 
       "configxml": null, 
